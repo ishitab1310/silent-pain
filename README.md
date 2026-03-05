@@ -1,5 +1,11 @@
 # Silent Pain — Product Opportunity Discovery Tool
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![NLP](https://img.shields.io/badge/NLP-SentenceTransformers-green)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-Clustering-orange)
+![Reddit API](https://img.shields.io/badge/API-Reddit-orange)
+
 Silent Pain is a product discovery tool that analyzes large volumes of online user complaints to identify unmet needs and potential product opportunities.
 
 Instead of starting with solutions, product teams should begin by understanding real user pain points. Silent Pain collects complaints from online discussions and clusters them to reveal recurring problems that may represent gaps in existing products.
