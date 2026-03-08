@@ -1,6 +1,6 @@
 # Silent Pain — Product Opportunity Discovery Tool
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Python](https://img.shields.io/badge/Python-3.14-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![NLP](https://img.shields.io/badge/NLP-SentenceTransformers-green)
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-Clustering-orange)
